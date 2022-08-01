@@ -1,0 +1,3 @@
+Нет пустых идентификаторов
+Number of CYCLE complete <iden> between the first 'Worklist name' and last 'Worklist name': 515
+Number of CYCLE complete <iden> between the 'Worklist name' with the same filenames : 0

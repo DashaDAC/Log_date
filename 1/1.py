@@ -8,7 +8,7 @@ col_work = 0
 col_work2 = 0
 required = "Worklist name"
 
-with codecs.open('Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
+with codecs.open('../Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
     for num_line, line in enumerate(f):
         if required in line:
             string_numbers.append(num_line)
@@ -24,7 +24,7 @@ set2 = set()
 
 #1_1
 
-with codecs.open('Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
+with codecs.open('../Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
     f_list = f.readlines()
     flag = 0
     for i in range(int(string_numbers[-1]), -1, -1):
@@ -39,7 +39,7 @@ with codecs.open('Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
 #1_2
 
 
-with codecs.open('Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
+with codecs.open('../Logs/200731.LOG', encoding='utf-16', errors='ignore') as f:
     f_list = f.readlines()
     for j in range(int(string_numbers[0]), int(string_numbers[-1])):
         if "CYCLE complete" in f_list[j]:

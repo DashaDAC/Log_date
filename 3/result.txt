@@ -1,0 +1,117 @@
+Input namber of BOARD (grabber - 0, wash - 1, tip - 2, reagents - 3) :1
+info: wash : Sending command: 27
+info: wash : Got reply: 28
+
+info: wash : Sending command: 3
+info: wash : Got reply: 4
+
+info: wash : Sending command: 5
+info: wash : Got reply: 6
+
+info: wash : Sending command: 1
+info: wash : Got reply: 2
+
+info: wash : Sending command: 4
+info: wash : Got reply: 5
+
+info: wash : Sending command: 54
+info: wash : Got reply: 55
+
+info: wash : Sending command: 7
+info: wash : Got reply: 8
+
+info: wash : Sending command: 12
+info: wash : Got reply: 13
+
+info: wash : Sending command: 29
+info: wash : Got reply: 30
+
+info: wash : Sending command: 47
+info: wash : Got reply: 48
+
+info: wash : Sending command: 17
+info: wash : Got reply: 18
+
+info: wash : Sending command: 31
+info: wash : Got reply: 32
+
+info: wash : Sending command: 43
+info: wash : Got reply: 44
+
+info: wash : Sending command: 39
+info: wash : Got reply: 40
+
+info: wash : Sending command: 37
+info: wash : Got reply: 38
+
+info: wash : Sending command: 24
+info: wash : Got reply: 25
+
+info: wash : Sending command: 11
+info: wash : Got reply: 12
+
+info: wash : Sending command: 20
+info: wash : Got reply: 21
+
+info: wash : Sending command: 25
+info: wash : Got reply: 26
+
+info: wash : Sending command: 35
+info: wash : Got reply: 36
+
+info: wash : Sending command: 45
+info: wash : Got reply: 46
+
+info: wash : Sending command: 53
+info: wash : Got reply: 54
+
+info: wash : Sending command: 57
+info: wash : Got reply: 58
+
+info: wash : Sending command: 14
+info: wash : Got reply: 15
+
+info: wash : Sending command: 33
+info: wash : Got reply: 34
+
+info: wash : Sending command: 18
+info: wash : Got reply: 19
+
+info: wash : Sending command: 16
+info: wash : Got reply: 17
+
+info: wash : Sending command: 51
+info: wash : Got reply: 52
+
+info: wash : Sending command: 56
+info: wash : Got reply: 57
+
+info: wash : Sending command: 9
+info: wash : Got reply: 10
+
+info: wash : Sending command: 22
+info: wash : Got reply: 23
+
+info: wash : Sending command: 23
+info: wash : Got reply: 24
+
+info: wash : Sending command: 10
+info: wash : Got reply: 11
+
+info: wash : Sending command: 15
+info: wash : Got reply: 16
+
+info: wash : Sending command: 19
+info: wash : Got reply: 20
+
+info: wash : Sending command: 41
+info: wash : Got reply: 42
+
+info: wash : Sending command: 21
+info: wash : Got reply: 22
+
+info: wash : Sending command: 49
+info: wash : Got reply: 50
+
+info: wash : Sending command: 13
+info: wash : Got reply: 14

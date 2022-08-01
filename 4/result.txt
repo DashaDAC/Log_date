@@ -1,0 +1,281 @@
+None
+
+
+info: Slot to run: 0
+info: Slot to run: 1
+0:00:32.088000
+
+
+info: Slot to run: 1
+info: Slot to run: 2
+0:00:32.056000
+
+
+info: Slot to run: 2
+info: Slot to run: 3
+0:00:32.024000
+
+
+info: Slot to run: 3
+info: Slot to run: 4
+0:00:32.019000
+
+
+info: Slot to run: 4
+info: Slot to run: 5
+0:00:32.083000
+
+
+info: Slot to run: 5
+info: Slot to run: 6
+0:00:32.087000
+
+
+info: Slot to run: 6
+info: Slot to run: 7
+0:00:32.056000
+
+
+info: Slot to run: 7
+info: Slot to run: 8
+0:00:32.091000
+
+
+info: Slot to run: 8
+info: Slot to run: 9
+0:00:32.025000
+
+
+info: Slot to run: 9
+info: Slot to run: 10
+0:00:32.021000
+
+
+info: Slot to run: 10
+info: Slot to run: 11
+0:00:32.088000
+
+
+info: Slot to run: 11
+info: Slot to run: 12
+0:00:32.052000
+
+
+info: Slot to run: 12
+info: Slot to run: 13
+0:00:32.023000
+
+
+info: Slot to run: 13
+info: Slot to run: 14
+0:00:32.023000
+
+
+info: Slot to run: 14
+info: Slot to run: 15
+0:00:32.091000
+
+
+info: Slot to run: 15
+info: Slot to run: 16
+0:00:32.089000
+
+
+info: Slot to run: 16
+info: Slot to run: 17
+0:00:32.057000
+
+
+info: Slot to run: 17
+info: Slot to run: 18
+0:00:32.095000
+
+
+info: Slot to run: 18
+info: Slot to run: 19
+0:00:32.020000
+
+
+info: Slot to run: 19
+info: Slot to run: 20
+0:00:32.024000
+
+
+info: Slot to run: 20
+info: Slot to run: 21
+0:00:32.099000
+
+
+info: Slot to run: 21
+info: Slot to run: 22
+0:00:32.052000
+
+
+info: Slot to run: 22
+info: Slot to run: 23
+0:00:32.020000
+
+
+info: Slot to run: 23
+info: Slot to run: 24
+0:00:32.020000
+
+
+info: Slot to run: 24
+info: Slot to run: 25
+0:00:32.086000
+
+
+info: Slot to run: 25
+info: Slot to run: 26
+0:00:32.085000
+
+
+info: Slot to run: 26
+info: Slot to run: 27
+0:00:32.060000
+
+
+info: Slot to run: 27
+info: Slot to run: 28
+0:00:32.093000
+
+
+info: Slot to run: 28
+info: Slot to run: 29
+0:00:32.022000
+
+
+info: Slot to run: 29
+info: Slot to run: 30
+0:00:32.023000
+
+
+info: Slot to run: 30
+info: Slot to run: 31
+0:00:32.088000
+
+
+info: Slot to run: 31
+info: Slot to run: 32
+0:00:32.056000
+
+
+info: Slot to run: 32
+info: Slot to run: 33
+0:00:32.024000
+
+
+info: Slot to run: 33
+info: Slot to run: 34
+0:00:32.022000
+
+
+info: Slot to run: 34
+info: Slot to run: 35
+0:00:32.321000
+
+
+info: Slot to run: 35
+info: Slot to run: 36
+0:00:32.284000
+
+
+info: Slot to run: 36
+info: Slot to run: 37
+0:00:32.335000
+
+
+info: Slot to run: 37
+info: Slot to run: 38
+0:00:32.069000
+
+
+info: Slot to run: 38
+info: Slot to run: 39
+0:00:34.128000
+
+
+info: Slot to run: 39
+info: Slot to run: 40
+0:00:34.093000
+
+
+info: Slot to run: 40
+info: Slot to run: 41
+0:00:34.017000
+
+
+info: Slot to run: 41
+info: Slot to run: 42
+0:00:36.639000
+
+
+info: Slot to run: 42
+info: Slot to run: 43
+0:00:36.681000
+
+
+info: Slot to run: 43
+info: Slot to run: 44
+0:00:36.614000
+
+
+info: Slot to run: 44
+info: Slot to run: 45
+0:00:36.653000
+
+
+info: Slot to run: 45
+info: Slot to run: 46
+0:00:36.644000
+
+
+     ID        time_def
+0     0            None
+1     1  0:00:32.088000
+2     2  0:00:32.056000
+3     3  0:00:32.024000
+4     4  0:00:32.019000
+5     5  0:00:32.083000
+6     6  0:00:32.087000
+7     7  0:00:32.056000
+8     8  0:00:32.091000
+9     9  0:00:32.025000
+10   10  0:00:32.021000
+11   11  0:00:32.088000
+12   12  0:00:32.052000
+13   13  0:00:32.023000
+14   14  0:00:32.023000
+15   15  0:00:32.091000
+16   16  0:00:32.089000
+17   17  0:00:32.057000
+18   18  0:00:32.095000
+19   19  0:00:32.020000
+20   20  0:00:32.024000
+21   21  0:00:32.099000
+22   22  0:00:32.052000
+23   23  0:00:32.020000
+24   24  0:00:32.020000
+25   25  0:00:32.086000
+26   26  0:00:32.085000
+27   27  0:00:32.060000
+28   28  0:00:32.093000
+29   29  0:00:32.022000
+30   30  0:00:32.023000
+31   31  0:00:32.088000
+32   32  0:00:32.056000
+33   33  0:00:32.024000
+34   34  0:00:32.022000
+35   35  0:00:32.321000
+36   36  0:00:32.284000
+37   37  0:00:32.335000
+38   38  0:00:32.069000
+39   39  0:00:34.128000
+40   40  0:00:34.093000
+41   41  0:00:34.017000
+42   42  0:00:36.639000
+43   43  0:00:36.681000
+44   44  0:00:36.614000
+45   45  0:00:36.653000
+46   46  0:00:36.644000
